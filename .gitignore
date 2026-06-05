@@ -1,0 +1,29 @@
+ # Build output
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.ipch
+
+# Compiled files
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# Log files
+*.log
+
+# Packaging
+*.zip
+*.tar.gz
